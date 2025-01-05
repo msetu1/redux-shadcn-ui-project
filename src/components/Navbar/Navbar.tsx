@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="text-center mt-5">
       <div className="flex items-center justify-center gap-3 text-xl font-bold">
-        <h2 className=""> rfsaatu</h2>
+        <h2 className=""> redux project</h2>
         <Link to="/">Home</Link>
         <Link to="/user">User</Link>
         <Link to="/login">Login</Link>
